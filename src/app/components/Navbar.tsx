@@ -43,6 +43,7 @@ function NavScrollExample() {
               aria-label="Search"
             />
             <Button variant="outline-success">Search</Button>
+            <Button variant="outline-success">Sing In</Button>
           </Form>
         </Navbar.Collapse>
       </Container>
